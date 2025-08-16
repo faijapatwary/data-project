@@ -1,2 +1,2 @@
 # data-project
-railway ticket reservation
+railway-ticket-reservation
